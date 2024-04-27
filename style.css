@@ -1,0 +1,22 @@
+body {
+    background-color: #0d4d4d; /* Azul petróleo */
+    color: white; /* Texto em branco */
+}
+
+.header {
+    background-color: #008000; /* Verde */
+    padding: 10px;
+    text-align: center;
+}
+
+.header h1 {
+    margin: 0;
+}
+
+.description {
+    margin-bottom: 20px;
+}
+
+a {
+    color: white;
+}
